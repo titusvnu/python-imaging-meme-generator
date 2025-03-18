@@ -47,7 +47,7 @@ This is a Python-based meme generator tool built using **PyQt5** for the GUI and
 - Generate and save your meme image.
 
 ## Project History
-This project was created in **2019**, during my 8th-grade year, as an introduction to GUI development and image manipulation in Python. It represents one of my first hands-on experiences combining creative UI design with practical Python programming concepts.
+This project was created in **2021**, during my 8th-grade year, as an introduction to GUI development and image manipulation in Python. It represents one of my first hands-on experiences combining creative UI design with practical Python programming concepts.
 
 ## License
 This project is licensed under the MIT License.
