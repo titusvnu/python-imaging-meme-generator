@@ -1,7 +1,7 @@
 # Python Imaging Meme Generator
 
 ## Description
-This is a Python-based meme generator tool built using **PyQt5** for the GUI and **Pillow (PIL)** for image processing. Developed during my 8th-grade year, the project enables users to create custom memes by overlaying text onto popular meme templates.
+This is a Python-based meme generator tool built using **PyQt5** for the GUI and **Pillow (PIL)** for image processing. Developed during my 8th-grade year in mid-2021, the project enables users to create custom memes by overlaying text onto popular meme templates.
 
 ## Features
 - **PyQt5 GUI Interface:** Simple, user-friendly design.
